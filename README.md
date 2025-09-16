@@ -6,3 +6,6 @@
 [Gold IV] Title: 뱀, Time: 76 ms, Memory: 12108 KB -BaekjoonHub  
 [Silver I] Title: 창고 다각형, Time: 72 ms, Memory: 11980 KB -BaekjoonHub  
 [Gold V] Title: 문자열 게임 2, Time: 608 ms, Memory: 31296 KB -BaekjoonHub  
+
+### 2주차
+[Gold III] Title: 다리 만들기, Time: 2012 ms, Memory: 292452 KB -BaekjoonHub
