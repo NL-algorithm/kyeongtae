@@ -8,5 +8,6 @@
 [Gold V] Title: 문자열 게임 2, Time: 608 ms, Memory: 31296 KB -BaekjoonHub  
 
 ### 2주차
-[Gold III] Title: 다리 만들기, Time: 2012 ms, Memory: 292452 KB -BaekjoonHub
-[Gold V] Title: 틱택토, Time: 68 ms, Memory: 11460 KB -BaekjoonHub
+[Gold III] Title: 다리 만들기, Time: 2012 ms, Memory: 292452 KB -BaekjoonHub  
+[Gold V] Title: 틱택토, Time: 68 ms, Memory: 11460 KB -BaekjoonHub  
+[Silver I] Title: 부등호, Time: 444 ms, Memory: 40400 KB -BaekjoonHub  
