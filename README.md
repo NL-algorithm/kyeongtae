@@ -9,3 +9,4 @@
 
 ### 2주차
 [Gold III] Title: 다리 만들기, Time: 2012 ms, Memory: 292452 KB -BaekjoonHub
+[Gold V] Title: 틱택토, Time: 68 ms, Memory: 11460 KB -BaekjoonHub
