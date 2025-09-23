@@ -13,4 +13,8 @@
 [Silver I] Title: 부등호, Time: 444 ms, Memory: 40400 KB -BaekjoonHub  
 
 ### 3주차   
-[Gold IV] Title: 미세먼지 안녕!, Time: 252 ms, Memory: 24664 KB -BaekjoonHub   
+[Gold IV] Title: 미세먼지 안녕!, Time: 252 ms, Memory: 24664 KB -BaekjoonHub    
+[Gold III] Title: 나무 재테크, Time: 800 ms, Memory: 297592 KB -BaekjoonHub   
+[Gold III] Title: 드래곤 커브, Time: 76 ms, Memory: 12552 KB -BaekjoonHub   
+[Gold IV] Title: 주사위 굴리기, Time: 72 ms, Memory: 12144 KB -BaekjoonHub   
+[Gold V] Title: 상어 초등학교, Time: 204 ms, Memory: 19476 KB -BaekjoonHub   
