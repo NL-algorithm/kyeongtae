@@ -1,4 +1,4 @@
-# [실제 커밋한 리포지토리 링크](https://github.com/kraftenty/ps)
+# [실제 커밋한 리포지토리 링크](https://github.com/kraftenty/ps/commits/main)
 
 ### 1주차
 [Silver II] Title: 도영이가 만든 맛있는 음식, Time: 64 ms, Memory: 11548 KB -BaekjoonHub  
