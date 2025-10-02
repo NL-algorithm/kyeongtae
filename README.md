@@ -30,3 +30,7 @@
 [Gold III] Title: 마법사 상어와 파이어스톰, Time: 276 ms, Memory: 35688 KB -BaekjoonHub   
 [Gold V] Title: 마법사 상어와 비바라기, Time: 188 ms, Memory: 21960 KB -BaekjoonHub   
 [Gold II] Title: 스타트 택시, Time: 244 ms, Memory: 26576 KB -BaekjoonHub   
+
+### 4주차  
+[코드트리] AI 로봇청소기(삼성코테복기) - https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/ai-robot/description   
+[level 2] Title: 프로세스, Time: 1.79 ms, Memory: 72.9 MB -BaekjoonHub  
