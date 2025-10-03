@@ -34,3 +34,5 @@
 ### 4주차  
 [코드트리] AI 로봇청소기(삼성코테복기) - https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/ai-robot/description   
 [level 2] Title: 프로세스, Time: 1.79 ms, Memory: 72.9 MB -BaekjoonHub  
+[level 3] Title: 네트워크, Time: 0.87 ms, Memory: 80.7 MB -BaekjoonHub   
+[level 2] Title: 2 x n 타일링, Time: 2.24 ms, Memory: 54.4 MB -BaekjoonHub   
