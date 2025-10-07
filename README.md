@@ -36,3 +36,11 @@
 [level 2] Title: 프로세스, Time: 1.79 ms, Memory: 72.9 MB -BaekjoonHub  
 [level 3] Title: 네트워크, Time: 0.87 ms, Memory: 80.7 MB -BaekjoonHub   
 [level 2] Title: 2 x n 타일링, Time: 2.24 ms, Memory: 54.4 MB -BaekjoonHub   
+
+### 5주차
+[level 2] Title: 스킬트리, Time: 0.07 ms, Memory: 81.8 MB -BaekjoonHub   
+[level 2] Title: 땅따먹기, Time: 14.57 ms, Memory: 87.7 MB -BaekjoonHub   
+[level 3] Title: 야근 지수, Time: 137.54 ms, Memory: 70.1 MB -BaekjoonHub   
+[level 3] Title: 단속카메라, Time: 11.06 ms, Memory: 59.2 MB -BaekjoonHub   
+[level 3] Title: 등굣길, Time: 1.18 ms, Memory: 54.6 MB -BaekjoonHub   
+[level 2] Title: 의상, Time: 0.15 ms, Memory: 89.3 MB -BaekjoonHub   
