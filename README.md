@@ -43,4 +43,9 @@
 [level 3] Title: 야근 지수, Time: 137.54 ms, Memory: 70.1 MB -BaekjoonHub   
 [level 3] Title: 단속카메라, Time: 11.06 ms, Memory: 59.2 MB -BaekjoonHub   
 [level 3] Title: 등굣길, Time: 1.18 ms, Memory: 54.6 MB -BaekjoonHub   
-[level 2] Title: 의상, Time: 0.15 ms, Memory: 89.3 MB -BaekjoonHub   
+[level 2] Title: 의상, Time: 0.15 ms, Memory: 89.3 MB -BaekjoonHub    
+[level 2] Title: 멀리 뛰기, Time: 0.15 ms, Memory: 74.9 MB -BaekjoonHub   
+[level 3] Title: 여행경로, Time: 0.16 ms, Memory: 70.5 MB -BaekjoonHub   
+[level 2] Title: 연속 부분 수열 합의 개수, Time: 373.86 ms, Memory: 119 MB -BaekjoonHub   
+[level 3] Title: 입국심사, Time: 113.70 ms, Memory: 101 MB -BaekjoonHub   
+[level 2] Title: H-Index, Time: 2.08 ms, Memory: 83.8 MB -BaekjoonHub   
