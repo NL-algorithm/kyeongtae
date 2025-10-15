@@ -49,3 +49,17 @@
 [level 2] Title: 연속 부분 수열 합의 개수, Time: 373.86 ms, Memory: 119 MB -BaekjoonHub   
 [level 3] Title: 입국심사, Time: 113.70 ms, Memory: 101 MB -BaekjoonHub   
 [level 2] Title: H-Index, Time: 2.08 ms, Memory: 83.8 MB -BaekjoonHub   
+
+### 6주차   
+[level 3] Title: 가장 먼 노드, Time: 22.84 ms, Memory: 120 MB -BaekjoonHub   
+[level 2] Title: 광물 캐기, Time: 6.54 ms, Memory: 85.3 MB -BaekjoonHub   
+[level 2] Title: [1차] 캐시, Time: 45.02 ms, Memory: 107 MB -BaekjoonHub   
+[level 3] Title: 단어 변환, Time: 0.61 ms, Memory: 76.3 MB -BaekjoonHub   
+[level 2] Title: 전화번호 목록, Time: 312.54 ms, Memory: 250 MB -BaekjoonHub   
+[level 2] Title: 타겟 넘버, Time: 6.01 ms, Memory: 89.9 MB -BaekjoonHub   
+[level 2] Title: 피로도, Time: 3.19 ms, Memory: 70 MB -BaekjoonHub   
+[level 2] Title: 더 맵게, Time: 1769.13 ms, Memory: 129 MB -BaekjoonHub   
+[level 3] Title: 최고의 집합, Time: 0.31 ms, Memory: 54.8 MB -BaekjoonHub   
+[level 2] Title: 서버 증설 횟수, Time: 0.21 ms, Memory: 76.1 MB -BaekjoonHub   
+[level 2] Title: 큰 수 만들기, Time: 68.51 ms, Memory: 96.4 MB -BaekjoonHub   
+[level 2] Title: 다리를 지나는 트럭, Time: 19.91 ms, Memory: 95.4 MB -BaekjoonHub   
