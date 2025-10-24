@@ -63,3 +63,23 @@
 [level 2] Title: 서버 증설 횟수, Time: 0.21 ms, Memory: 76.1 MB -BaekjoonHub   
 [level 2] Title: 큰 수 만들기, Time: 68.51 ms, Memory: 96.4 MB -BaekjoonHub   
 [level 2] Title: 다리를 지나는 트럭, Time: 19.91 ms, Memory: 95.4 MB -BaekjoonHub   
+
+### 7주차
+[level 3] Title: 순위, Time: 12.03 ms, Memory: 78.2 MB -BaekjoonHub   
+[level 2] Title: 뒤에 있는 큰 수 찾기, Time: 165.95 ms, Memory: 125 MB -BaekjoonHub   
+[level 2] Title: 2개 이하로 다른 비트, Time: 6.95 ms, Memory: 131 MB -BaekjoonHub   
+[level 2] Title: 가장 큰 수, Time: 298.53 ms, Memory: 247 MB -BaekjoonHub   
+[level 2] Title: 삼각 달팽이, Time: 48.71 ms, Memory: 160 MB -BaekjoonHub   
+[level 2] Title: 전력망을 둘로 나누기, Time: 1.94 ms, Memory: 76.3 MB -BaekjoonHub   
+[level 3] Title: 이중우선순위큐, Time: 93.03 ms, Memory: 126 MB -BaekjoonHub   
+[level 2] Title: 쿼드압축 후 개수 세기, Time: 10.04 ms, Memory: 127 MB -BaekjoonHub   
+[Silver II] Title: 키로거, Time: 2384 ms, Memory: 162488 KB -BaekjoonHub   
+[Gold III] Title: 파티, Time: 140 ms, Memory: 17248 KB -BaekjoonHub   
+[D3] Title: [S/W 문제해결 응용] 2일차 - 최대 상금, Time: 14,732 ms, Memory: 115,712 KB -BaekjoonHub   
+[Gold V] Title: 수 고르기, Time: 268 ms, Memory: 28488 KB -BaekjoonHub   
+[Gold IV] Title: 트리, Time: 400 ms, Memory: 63396 KB -BaekjoonHub   
+[Gold V] Title: 상범 빌딩, Time: 120 ms, Memory: 14872 KB -BaekjoonHub   
+[Gold V] Title: 1로 만들기 2, Time: 108 ms, Memory: 16016 KB -BaekjoonHub   
+[Silver III] Title: 빈도 정렬, Time: 76 ms, Memory: 12024 KB -BaekjoonHub   
+[D3] Title: 햄버거 다이어트, Time: 210 ms, Memory: 27,360 KB -BaekjoonHub   
+[level 1] Title: [PCCP 기출문제] 1번 / 붕대 감기, Time: 0.12 ms, Memory: 74.4 MB -BaekjoonHub   
