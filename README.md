@@ -1,68 +1,18 @@
 # [실제 커밋한 리포지토리 링크](https://github.com/kraftenty/ps/commits/main)
 
-### 1주차
-[Silver II] Title: 도영이가 만든 맛있는 음식, Time: 64 ms, Memory: 11548 KB -BaekjoonHub  
-[Gold IV] Title: 빙산, Time: 500 ms, Memory: 163020 KB -BaekjoonHub  
-[Gold IV] Title: 뱀, Time: 76 ms, Memory: 12108 KB -BaekjoonHub  
-[Silver I] Title: 창고 다각형, Time: 72 ms, Memory: 11980 KB -BaekjoonHub  
-[Gold V] Title: 문자열 게임 2, Time: 608 ms, Memory: 31296 KB -BaekjoonHub  
+### 8주차
+[Gold IV] Title: 줄세우기, Time: 68 ms, Memory: 11520 KB -BaekjoonHub   
+[Silver I] Title: 스타트링크, Time: 124 ms, Memory: 36276 KB -BaekjoonHub   
+[Gold II] Title: 가운데를 말해요, Time: 336 ms, Memory: 35616 KB -BaekjoonHub   
+[level 2] Title: [PCCP 기출문제] 3번 / 충돌위험 찾기, Time: 487.65 ms, Memory: 237 MB -BaekjoonHub   
+[Gold V] Title: 파이프 옮기기 1, Time: 64 ms, Memory: 11616 KB -BaekjoonHub   
+[Gold II] Title: 색종이 붙이기, Time: 180 ms, Memory: 18792 KB -BaekjoonHub   
+[Gold III] Title: 두 배열의 합, Time: 704 ms, Memory: 54068 KB -BaekjoonHub   
+[Gold II] Title: 친구 네트워크, Time: 524 ms, Memory: 65756 KB -BaekjoonHub   
+[Gold IV] Title: 여행 가자, Time: 116 ms, Memory: 15424 KB -BaekjoonHub   
+[Gold IV] Title: 휴게소 세우기, Time: 64 ms, Memory: 11612 KB -BaekjoonHub   
+[Gold V] Title: 맥주 마시면서 걸어가기, Time: 72 ms, Memory: 12564 KB -BaekjoonHub   
 
-### 2주차
-[Gold III] Title: 다리 만들기, Time: 2012 ms, Memory: 292452 KB -BaekjoonHub  
-[Gold V] Title: 틱택토, Time: 68 ms, Memory: 11460 KB -BaekjoonHub  
-[Silver I] Title: 부등호, Time: 444 ms, Memory: 40400 KB -BaekjoonHub  
-
-### 3주차   
-[Gold IV] Title: 미세먼지 안녕!, Time: 252 ms, Memory: 24664 KB -BaekjoonHub    
-[Gold III] Title: 나무 재테크, Time: 800 ms, Memory: 297592 KB -BaekjoonHub   
-[Gold III] Title: 드래곤 커브, Time: 76 ms, Memory: 12552 KB -BaekjoonHub   
-[Gold IV] Title: 주사위 굴리기, Time: 72 ms, Memory: 12144 KB -BaekjoonHub   
-[Gold V] Title: 상어 초등학교, Time: 204 ms, Memory: 19476 KB -BaekjoonHub   
-[Unrated] Title: [모의 SW 역량테스트] 숫자 만들기, Time: 101 ms, Memory: 27,136 KB -BaekjoonHub   
-[D2] Title: 달팽이 숫자, Time: 106 ms, Memory: 27,520 KB -BaekjoonHub   
-[Gold I] Title: 상어 중학교, Time: 232 ms, Memory: 23028 KB -BaekjoonHub   
-[Gold I] Title: 구슬 탈출 2, Time: 76 ms, Memory: 12868 KB -BaekjoonHub   
-[Gold I] Title: 청소년 상어, Time: 72 ms, Memory: 11808 KB -BaekjoonHub   
-[Gold I] Title: 어른 상어, Time: 396 ms, Memory: 40836 KB -BaekjoonHub   
-[Gold IV] Title: 마법사 상어와 파이어볼, Time: 492 ms, Memory: 107856 KB -BaekjoonHub   
-[Gold III] Title: 마법사 상어와 토네이도, Time: 588 ms, Memory: 154876 KB -BaekjoonHub   
-[Gold I] Title: 낚시왕, Time: 464 ms, Memory: 23592 KB -BaekjoonHub   
-[Gold III] Title: 마법사 상어와 파이어스톰, Time: 276 ms, Memory: 35688 KB -BaekjoonHub   
-[Gold V] Title: 마법사 상어와 비바라기, Time: 188 ms, Memory: 21960 KB -BaekjoonHub   
-[Gold II] Title: 스타트 택시, Time: 244 ms, Memory: 26576 KB -BaekjoonHub   
-
-### 4주차  
-[코드트리] AI 로봇청소기(삼성코테복기) - https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/ai-robot/description   
-[level 2] Title: 프로세스, Time: 1.79 ms, Memory: 72.9 MB -BaekjoonHub  
-[level 3] Title: 네트워크, Time: 0.87 ms, Memory: 80.7 MB -BaekjoonHub   
-[level 2] Title: 2 x n 타일링, Time: 2.24 ms, Memory: 54.4 MB -BaekjoonHub   
-
-### 5주차
-[level 2] Title: 스킬트리, Time: 0.07 ms, Memory: 81.8 MB -BaekjoonHub   
-[level 2] Title: 땅따먹기, Time: 14.57 ms, Memory: 87.7 MB -BaekjoonHub   
-[level 3] Title: 야근 지수, Time: 137.54 ms, Memory: 70.1 MB -BaekjoonHub   
-[level 3] Title: 단속카메라, Time: 11.06 ms, Memory: 59.2 MB -BaekjoonHub   
-[level 3] Title: 등굣길, Time: 1.18 ms, Memory: 54.6 MB -BaekjoonHub   
-[level 2] Title: 의상, Time: 0.15 ms, Memory: 89.3 MB -BaekjoonHub    
-[level 2] Title: 멀리 뛰기, Time: 0.15 ms, Memory: 74.9 MB -BaekjoonHub   
-[level 3] Title: 여행경로, Time: 0.16 ms, Memory: 70.5 MB -BaekjoonHub   
-[level 2] Title: 연속 부분 수열 합의 개수, Time: 373.86 ms, Memory: 119 MB -BaekjoonHub   
-[level 3] Title: 입국심사, Time: 113.70 ms, Memory: 101 MB -BaekjoonHub   
-[level 2] Title: H-Index, Time: 2.08 ms, Memory: 83.8 MB -BaekjoonHub   
-
-### 6주차   
-[level 3] Title: 가장 먼 노드, Time: 22.84 ms, Memory: 120 MB -BaekjoonHub   
-[level 2] Title: 광물 캐기, Time: 6.54 ms, Memory: 85.3 MB -BaekjoonHub   
-[level 2] Title: [1차] 캐시, Time: 45.02 ms, Memory: 107 MB -BaekjoonHub   
-[level 3] Title: 단어 변환, Time: 0.61 ms, Memory: 76.3 MB -BaekjoonHub   
-[level 2] Title: 전화번호 목록, Time: 312.54 ms, Memory: 250 MB -BaekjoonHub   
-[level 2] Title: 타겟 넘버, Time: 6.01 ms, Memory: 89.9 MB -BaekjoonHub   
-[level 2] Title: 피로도, Time: 3.19 ms, Memory: 70 MB -BaekjoonHub   
-[level 2] Title: 더 맵게, Time: 1769.13 ms, Memory: 129 MB -BaekjoonHub   
-[level 3] Title: 최고의 집합, Time: 0.31 ms, Memory: 54.8 MB -BaekjoonHub   
-[level 2] Title: 서버 증설 횟수, Time: 0.21 ms, Memory: 76.1 MB -BaekjoonHub   
-[level 2] Title: 큰 수 만들기, Time: 68.51 ms, Memory: 96.4 MB -BaekjoonHub   
-[level 2] Title: 다리를 지나는 트럭, Time: 19.91 ms, Memory: 95.4 MB -BaekjoonHub   
 
 ### 7주차
 [level 3] Title: 순위, Time: 12.03 ms, Memory: 78.2 MB -BaekjoonHub   
@@ -83,3 +33,82 @@
 [Silver III] Title: 빈도 정렬, Time: 76 ms, Memory: 12024 KB -BaekjoonHub   
 [D3] Title: 햄버거 다이어트, Time: 210 ms, Memory: 27,360 KB -BaekjoonHub   
 [level 1] Title: [PCCP 기출문제] 1번 / 붕대 감기, Time: 0.12 ms, Memory: 74.4 MB -BaekjoonHub   
+[level 2] Title: [PCCP 기출문제] 2번 / 퍼즐 게임 챌린지, Time: 35.05 ms, Memory: 138 MB -BaekjoonHub   
+[Gold III] Title: 소문난 칠공주, Time: 332 ms, Memory: 149460 KB -BaekjoonHub   
+[level 1] Title: [PCCP 기출문제] 1번 / 동영상 재생기, Time: 1.19 ms, Memory: 77.9 MB -BaekjoonHub   
+[level 2] Title: 숫자 변환하기, Time: 43.05 ms, Memory: 73.1 MB -BaekjoonHub   
+[level 2] Title: 124 나라의 숫자, Time: 0.51 ms, Memory: 71.5 MB -BaekjoonHub   
+[level 2] Title: 배달, Time: 4.04 ms, Memory: 82.6 MB -BaekjoonHub   
+[level 2] Title: 미로 탈출, Time: 9.10 ms, Memory: 90 MB -BaekjoonHub   
+[level 2] Title: [PCCP 기출문제] 2번 / 석유 시추, Time: 78.94 ms, Memory: 69.2 MB -BaekjoonHub   
+[Silver IV] Title: 로프, Time: 248 ms, Memory: 24336 KB -BaekjoonHub   
+[Gold V] Title: 흙길 보수하기, Time: 304 ms, Memory: 22364 KB -BaekjoonHub   
+[Gold IV] Title: 타일 채우기, Time: 64 ms, Memory: 11496 KB -BaekjoonHub   
+[Gold IV] Title: List of Unique Numbers, Time: 200 ms, Memory: 25668 KB -BaekjoonHub   
+[Gold IV] Title: 스카이라인 쉬운거, Time: 284 ms, Memory: 21688 KB -BaekjoonHub   
+[Gold IV] Title: 강의실 배정, Time: 632 ms, Memory: 76896 KB -BaekjoonHub   
+
+### 6주차   
+[level 3] Title: 가장 먼 노드, Time: 22.84 ms, Memory: 120 MB -BaekjoonHub   
+[level 2] Title: 광물 캐기, Time: 6.54 ms, Memory: 85.3 MB -BaekjoonHub   
+[level 2] Title: [1차] 캐시, Time: 45.02 ms, Memory: 107 MB -BaekjoonHub   
+[level 3] Title: 단어 변환, Time: 0.61 ms, Memory: 76.3 MB -BaekjoonHub   
+[level 2] Title: 전화번호 목록, Time: 312.54 ms, Memory: 250 MB -BaekjoonHub   
+[level 2] Title: 타겟 넘버, Time: 6.01 ms, Memory: 89.9 MB -BaekjoonHub   
+[level 2] Title: 피로도, Time: 3.19 ms, Memory: 70 MB -BaekjoonHub   
+[level 2] Title: 더 맵게, Time: 1769.13 ms, Memory: 129 MB -BaekjoonHub   
+[level 3] Title: 최고의 집합, Time: 0.31 ms, Memory: 54.8 MB -BaekjoonHub   
+[level 2] Title: 서버 증설 횟수, Time: 0.21 ms, Memory: 76.1 MB -BaekjoonHub   
+[level 2] Title: 큰 수 만들기, Time: 68.51 ms, Memory: 96.4 MB -BaekjoonHub   
+[level 2] Title: 다리를 지나는 트럭, Time: 19.91 ms, Memory: 95.4 MB -BaekjoonHub   
+
+### 5주차
+[level 2] Title: 스킬트리, Time: 0.07 ms, Memory: 81.8 MB -BaekjoonHub   
+[level 2] Title: 땅따먹기, Time: 14.57 ms, Memory: 87.7 MB -BaekjoonHub   
+[level 3] Title: 야근 지수, Time: 137.54 ms, Memory: 70.1 MB -BaekjoonHub   
+[level 3] Title: 단속카메라, Time: 11.06 ms, Memory: 59.2 MB -BaekjoonHub   
+[level 3] Title: 등굣길, Time: 1.18 ms, Memory: 54.6 MB -BaekjoonHub   
+[level 2] Title: 의상, Time: 0.15 ms, Memory: 89.3 MB -BaekjoonHub    
+[level 2] Title: 멀리 뛰기, Time: 0.15 ms, Memory: 74.9 MB -BaekjoonHub   
+[level 3] Title: 여행경로, Time: 0.16 ms, Memory: 70.5 MB -BaekjoonHub   
+[level 2] Title: 연속 부분 수열 합의 개수, Time: 373.86 ms, Memory: 119 MB -BaekjoonHub   
+[level 3] Title: 입국심사, Time: 113.70 ms, Memory: 101 MB -BaekjoonHub   
+[level 2] Title: H-Index, Time: 2.08 ms, Memory: 83.8 MB -BaekjoonHub   
+
+### 4주차  
+[코드트리] AI 로봇청소기(삼성코테복기) - https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/ai-robot/description   
+[level 2] Title: 프로세스, Time: 1.79 ms, Memory: 72.9 MB -BaekjoonHub  
+[level 3] Title: 네트워크, Time: 0.87 ms, Memory: 80.7 MB -BaekjoonHub   
+[level 2] Title: 2 x n 타일링, Time: 2.24 ms, Memory: 54.4 MB -BaekjoonHub   
+
+### 3주차   
+[Gold IV] Title: 미세먼지 안녕!, Time: 252 ms, Memory: 24664 KB -BaekjoonHub    
+[Gold III] Title: 나무 재테크, Time: 800 ms, Memory: 297592 KB -BaekjoonHub   
+[Gold III] Title: 드래곤 커브, Time: 76 ms, Memory: 12552 KB -BaekjoonHub   
+[Gold IV] Title: 주사위 굴리기, Time: 72 ms, Memory: 12144 KB -BaekjoonHub   
+[Gold V] Title: 상어 초등학교, Time: 204 ms, Memory: 19476 KB -BaekjoonHub   
+[Unrated] Title: [모의 SW 역량테스트] 숫자 만들기, Time: 101 ms, Memory: 27,136 KB -BaekjoonHub   
+[D2] Title: 달팽이 숫자, Time: 106 ms, Memory: 27,520 KB -BaekjoonHub   
+[Gold I] Title: 상어 중학교, Time: 232 ms, Memory: 23028 KB -BaekjoonHub   
+[Gold I] Title: 구슬 탈출 2, Time: 76 ms, Memory: 12868 KB -BaekjoonHub   
+[Gold I] Title: 청소년 상어, Time: 72 ms, Memory: 11808 KB -BaekjoonHub   
+[Gold I] Title: 어른 상어, Time: 396 ms, Memory: 40836 KB -BaekjoonHub   
+[Gold IV] Title: 마법사 상어와 파이어볼, Time: 492 ms, Memory: 107856 KB -BaekjoonHub   
+[Gold III] Title: 마법사 상어와 토네이도, Time: 588 ms, Memory: 154876 KB -BaekjoonHub   
+[Gold I] Title: 낚시왕, Time: 464 ms, Memory: 23592 KB -BaekjoonHub   
+[Gold III] Title: 마법사 상어와 파이어스톰, Time: 276 ms, Memory: 35688 KB -BaekjoonHub   
+[Gold V] Title: 마법사 상어와 비바라기, Time: 188 ms, Memory: 21960 KB -BaekjoonHub   
+[Gold II] Title: 스타트 택시, Time: 244 ms, Memory: 26576 KB -BaekjoonHub   
+
+### 2주차
+[Gold III] Title: 다리 만들기, Time: 2012 ms, Memory: 292452 KB -BaekjoonHub  
+[Gold V] Title: 틱택토, Time: 68 ms, Memory: 11460 KB -BaekjoonHub  
+[Silver I] Title: 부등호, Time: 444 ms, Memory: 40400 KB -BaekjoonHub  
+
+### 1주차
+[Silver II] Title: 도영이가 만든 맛있는 음식, Time: 64 ms, Memory: 11548 KB -BaekjoonHub  
+[Gold IV] Title: 빙산, Time: 500 ms, Memory: 163020 KB -BaekjoonHub  
+[Gold IV] Title: 뱀, Time: 76 ms, Memory: 12108 KB -BaekjoonHub  
+[Silver I] Title: 창고 다각형, Time: 72 ms, Memory: 11980 KB -BaekjoonHub  
+[Gold V] Title: 문자열 게임 2, Time: 608 ms, Memory: 31296 KB -BaekjoonHub  
+
