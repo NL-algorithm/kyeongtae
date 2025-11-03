@@ -1,5 +1,12 @@
 # [실제 커밋한 리포지토리 링크](https://github.com/kraftenty/ps/commits/main)
 
+### 9주차
+[level 3] Title: 오랜 기간 보호한 동물(2), Time: 0.00 ms, Memory: 0.0 MB -BaekjoonHub   
+[level 3] Title: 물고기 종류 별 대어 찾기, Time: , Memory: undefined -BaekjoonHub   
+[level 2] Title: ROOT 아이템 구하기, Time: , Memory: undefined -BaekjoonHub   
+[level 2] Title: 월별 잡은 물고기 수 구하기, Time: , Memory: undefined -BaekjoonHub   
+[level 2] Title: 가격대 별 상품 개수 구하기, Time: 0.00 ms, Memory: 0.0 MB -BaekjoonHub   
+
 ### 8주차
 [Gold IV] Title: 줄세우기, Time: 68 ms, Memory: 11520 KB -BaekjoonHub   
 [Silver I] Title: 스타트링크, Time: 124 ms, Memory: 36276 KB -BaekjoonHub   
