@@ -1,5 +1,10 @@
 # [실제 커밋한 리포지토리 링크](https://github.com/kraftenty/ps/commits/main)
 
+### 10주차 (면접때문에 날먹좀하겠습니다..)
+[level 1] Title: 최소직사각형, Time: 1.36 ms, Memory: 105 MB -BaekjoonHub   
+[level 1] Title: 삼총사, Time: 0.03 ms, Memory: 87.9 MB -BaekjoonHub   
+[level 1] Title: 숫자 문자열과 영단어, Time: 0.06 ms, Memory: 91.7 MB -BaekjoonHub   
+
 ### 9주차
 [level 3] Title: 오랜 기간 보호한 동물(2), Time: 0.00 ms, Memory: 0.0 MB -BaekjoonHub   
 [level 3] Title: 물고기 종류 별 대어 찾기, Time: , Memory: undefined -BaekjoonHub   
