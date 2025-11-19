@@ -1,5 +1,11 @@
 # [실제 커밋한 리포지토리 링크](https://github.com/kraftenty/ps/commits/main)
 
+### 11주차
+[Gold III] Title: 최소비용 구하기 2, Time: 544 ms, Memory: 55244 KB -BaekjoonHub   
+[level 1] Title: 과일 장수, Time: 53.23 ms, Memory: 143 MB -BaekjoonHub   
+[level 1] Title: [PCCE 기출문제] 9번 / 지폐 접기, Time: 0.06 ms, Memory: 78.2 MB -BaekjoonHub   
+
+
 ### 10주차 (면접때문에 날먹좀하겠습니다..)
 [level 1] Title: 최소직사각형, Time: 1.36 ms, Memory: 105 MB -BaekjoonHub   
 [level 1] Title: 삼총사, Time: 0.03 ms, Memory: 87.9 MB -BaekjoonHub   
