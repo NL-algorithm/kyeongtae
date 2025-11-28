@@ -1,5 +1,10 @@
 # [실제 커밋한 리포지토리 링크](https://github.com/kraftenty/ps/commits/main)
 
+### 12주차
+[level 0] Title: 겹치는 선분의 길이, Time: 0.04 ms, Memory: 72.6 MB -BaekjoonHub   
+[level 0] Title: OX퀴즈, Time: 0.22 ms, Memory: 93.7 MB -BaekjoonHub   
+[level 0] Title: 겹치는 선분의 길이, Time: 0.04 ms, Memory: 72.6 MB -BaekjoonHub   
+
 ### 11주차
 [Gold III] Title: 최소비용 구하기 2, Time: 544 ms, Memory: 55244 KB -BaekjoonHub   
 [level 1] Title: 과일 장수, Time: 53.23 ms, Memory: 143 MB -BaekjoonHub   
