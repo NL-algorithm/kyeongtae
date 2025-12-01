@@ -1,5 +1,10 @@
 # [실제 커밋한 리포지토리 링크](https://github.com/kraftenty/ps/commits/main)
 
+### 13주차
+[level 1] Title: 명예의 전당 (1), Time: 2.18 ms, Memory: 77.8 MB -BaekjoonHub   
+[level 1] Title: 소수 찾기, Time: 298.00 ms, Memory: 72.3 MB -BaekjoonHub   
+[level 0] Title: 나이 출력, Time: 0.02 ms, Memory: 85.7 MB -BaekjoonHub   
+
 ### 12주차
 [level 0] Title: 겹치는 선분의 길이, Time: 0.04 ms, Memory: 72.6 MB -BaekjoonHub   
 [level 0] Title: OX퀴즈, Time: 0.22 ms, Memory: 93.7 MB -BaekjoonHub   
